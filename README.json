@@ -91,7 +91,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T21:43:55Z",
+                "last_commit": "2026-08-14T21:49:28Z",
                 "owner": "xavidop",
                 "repo": "genkitx-github",
                 "stars": 45
@@ -105,7 +105,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T22:37:12Z",
+                "last_commit": "2026-08-14T22:24:34Z",
                 "owner": "genkit-ai",
                 "repo": "aws-bedrock-js-plugin",
                 "stars": 13
@@ -196,7 +196,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T12:34:04Z",
+                "last_commit": "2026-08-14T21:51:57Z",
                 "owner": "xavidop",
                 "repo": "genkitx-voiceflow",
                 "stars": 6
@@ -224,7 +224,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T23:41:04Z",
+                "last_commit": "2026-08-14T23:35:20Z",
                 "owner": "xavidop",
                 "repo": "genkitx-weaviate",
                 "stars": 1
@@ -859,10 +859,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:00:41Z",
+            "last_commit": "2026-08-15T15:37:14Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6336
+            "stars": 6338
           }
         },
         {
@@ -898,7 +898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:12:51.688Z",
+    "last_updated": "2026-08-15T15:42:35.843Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "original_repository_sha": "9cca4bdd92430020af0d0dc08e8a629112abb53a",
     "enhanced_repository": "enhansome/enhansome-firebase-genkit",

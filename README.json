@@ -920,7 +920,7 @@
             "last_commit": "2026-08-21T23:22:44Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6351
+            "stars": 6353
           }
         },
         {
@@ -958,7 +958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:43:19.729Z",
+    "last_updated": "2026-08-23T15:44:38.210Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "original_repository_id": 856569515,
     "original_repository_sha": "9cca4bdd92430020af0d0dc08e8a629112abb53a",

@@ -206,7 +206,7 @@
                     "archived": false,
                     "id": 952723341,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-17T12:34:36Z",
+                    "last_commit": "2026-08-25T13:07:01Z",
                     "owner": "xavidop",
                     "repo": "genkitx-voiceflow",
                     "stars": 6
@@ -399,10 +399,10 @@
                     "archived": false,
                     "id": 793795224,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T06:07:15Z",
+                    "last_commit": "2026-08-25T16:05:56Z",
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6367
+                    "stars": 6374
                   }
                 }
               ]
@@ -946,10 +946,10 @@
             "archived": false,
             "id": 793795224,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:07:15Z",
+            "last_commit": "2026-08-25T16:05:56Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6367
+            "stars": 6374
           }
         },
         {
@@ -961,7 +961,7 @@
             "archived": false,
             "id": 983118442,
             "language": "Dart",
-            "last_commit": "2026-08-24T21:05:04Z",
+            "last_commit": "2026-08-25T16:06:38Z",
             "owner": "genkit-ai",
             "repo": "genkit-dart",
             "stars": 156
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:56.131Z",
+    "last_updated": "2026-08-25T16:07:05.642Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "original_repository_id": 856569515,
     "original_repository_sha": "9cca4bdd92430020af0d0dc08e8a629112abb53a",

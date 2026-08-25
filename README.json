@@ -94,7 +94,7 @@
                     "archived": false,
                     "id": 853843195,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T01:26:37Z",
+                    "last_commit": "2026-08-24T23:24:01Z",
                     "owner": "xavidop",
                     "repo": "genkitx-github",
                     "stars": 45
@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 907766246,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T23:23:25Z",
+                    "last_commit": "2026-08-24T23:25:09Z",
                     "owner": "genkit-ai",
                     "repo": "aws-bedrock-js-plugin",
                     "stars": 13
@@ -236,7 +236,7 @@
                     "archived": false,
                     "id": 1118355946,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T23:38:21Z",
+                    "last_commit": "2026-08-24T23:36:11Z",
                     "owner": "xavidop",
                     "repo": "genkitx-weaviate",
                     "stars": 1
@@ -399,10 +399,10 @@
                     "archived": false,
                     "id": 793795224,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T15:23:04Z",
+                    "last_commit": "2026-08-25T06:07:15Z",
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6354
+                    "stars": 6367
                   }
                 }
               ]
@@ -450,7 +450,7 @@
                     "archived": false,
                     "id": 1032839003,
                     "language": "Go",
-                    "last_commit": "2026-08-24T09:08:46Z",
+                    "last_commit": "2026-08-25T00:33:55Z",
                     "owner": "genkit-ai",
                     "repo": "opentelemetry-go-plugin",
                     "stars": 14
@@ -946,10 +946,10 @@
             "archived": false,
             "id": 793795224,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:23:04Z",
+            "last_commit": "2026-08-25T06:07:15Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6354
+            "stars": 6367
           }
         },
         {
@@ -961,7 +961,7 @@
             "archived": false,
             "id": 983118442,
             "language": "Dart",
-            "last_commit": "2026-08-24T15:41:53Z",
+            "last_commit": "2026-08-24T21:05:04Z",
             "owner": "genkit-ai",
             "repo": "genkit-dart",
             "stars": 156
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:03:08.371Z",
+    "last_updated": "2026-08-25T06:33:56.131Z",
     "original_repository": "xavidop/awesome-firebase-genkit",
     "original_repository_id": 856569515,
     "original_repository_sha": "9cca4bdd92430020af0d0dc08e8a629112abb53a",

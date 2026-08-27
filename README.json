@@ -399,10 +399,10 @@
                     "archived": false,
                     "id": 793795224,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T16:30:54Z",
+                    "last_commit": "2026-08-27T07:02:55Z",
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6377
+                    "stars": 6382
                   }
                 }
               ]
@@ -946,10 +946,10 @@
             "archived": false,
             "id": 793795224,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:30:54Z",
+            "last_commit": "2026-08-27T07:02:55Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6377
+            "stars": 6382
           }
         },
         {
@@ -961,7 +961,7 @@
             "archived": false,
             "id": 983118442,
             "language": "Dart",
-            "last_commit": "2026-08-26T15:49:42Z",
+            "last_commit": "2026-08-27T01:45:25Z",
             "owner": "genkit-ai",
             "repo": "genkit-dart",
             "stars": 156
@@ -987,9 +987,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:43.073Z",
-    "original_repository": "xavidop/awesome-firebase-genkit",
-    "original_repository_id": 856569515,
+    "last_updated": "2026-08-27T11:37:04.844Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 856569515,
+      "language": null,
+      "last_commit": "2026-07-20T16:43:18Z",
+      "owner": "xavidop",
+      "repo": "awesome-genkit",
+      "stars": 134
+    },
     "original_repository_sha": "9cca4bdd92430020af0d0dc08e8a629112abb53a",
     "enhanced_repository": "enhansome/enhansome-firebase-genkit",
     "enhanced_repository_description": null,

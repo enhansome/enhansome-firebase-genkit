@@ -81,8 +81,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`genkitx-groq`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq) ⭐ 182 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for Groq APIs.
    * [`genkitx-mistral`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral) ⭐ 182 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for Mistral AI APIs.
    * [`genkitx-azure-openai`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai) ⭐ 182 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for Azure OpenAI APIs.
-   * [`genkitx-github`](https://github.com/xavidop/genkitx-github) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24 - Plugin for GitHub Models APIs.
-   * [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) ⭐ 13 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 - Plugin for AWS Bedrock APIs.
+   * [`genkitx-github`](https://github.com/xavidop/genkitx-github) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-27 - Plugin for GitHub Models APIs.
+   * [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) ⭐ 13 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-27 - Plugin for AWS Bedrock APIs.
    * [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-24 - Plugin for Deepseek Cloud APIs.
    * [`genkitx-huggingface`](https://github.com/aciescrest/genkit-huggingface) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-18 - Plugin for Hugging Face Inference APIs.
 2. Vector Store Plugins
@@ -91,7 +91,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24 - Plugin for Qdrant Vector Stores.
    * [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-25 - Plugin for Voiceflow KB.
    * [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-20 - Plugin for Redis Vector Stores.
-   * [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24 - Plugin for Weaviate Vector Stores.
+   * [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-28 - Plugin for Weaviate Vector Stores.
    * [`genkitx-mongodb`](https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-08 - Plugin for MongoDB Vector Stores.
    * [`genkitx-astra-db`](https://genkit.dev/docs/plugins/astra-db/) - Plugin for AstraDB Vector Stores.
    * [`genkitx-pgvector`](https://genkit.dev/docs/plugins/pgvector/) - Plugin for PostgeSQL (PGVector) Vector Stores.
@@ -130,7 +130,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`ollama`](https://genkit.dev/go/docs/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
    * [`compat_oai,compat_oai/openai,compat_oai/anthropic`](https://genkit.dev/go/docs/plugins/openai/) - Plugin for Compatible OpenAI APIs (OpenAI, Anthropic providers).
 2. Vector Store Plugins
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,382 | 🐛 754 | 🌐 TypeScript | 📅 2026-08-27 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,384 | 🐛 761 | 🌐 TypeScript | 📅 2026-08-28 - Plugin for Weaviate Vector Stores.
    * [`pinecone`](https://genkit.dev/go/docs/plugins/pinecone/) - Plugin for Pinecone Vector Stores.
    * [`alloydb`](https://genkit.dev/go/docs/plugins/alloydb/) - Plugin for AlloyDB Vector Stores.
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
@@ -266,12 +266,12 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,382 | 🐛 754 | 🌐 TypeScript | 📅 2026-08-27 - Official GitHub repository for Genkit.
-* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 156 | 🐛 104 | 🌐 Dart | 📅 2026-08-27 - Official GitHub repository for Genkit Dart.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,384 | 🐛 761 | 🌐 TypeScript | 📅 2026-08-28 - Official GitHub repository for Genkit.
+* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 156 | 🐛 107 | 🌐 Dart | 📅 2026-08-28 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 24 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 * [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

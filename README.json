@@ -94,7 +94,7 @@
                     "archived": false,
                     "id": 853843195,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T23:24:01Z",
+                    "last_commit": "2026-08-27T23:17:51Z",
                     "owner": "xavidop",
                     "repo": "genkitx-github",
                     "stars": 45
@@ -109,7 +109,7 @@
                     "archived": false,
                     "id": 907766246,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T23:25:09Z",
+                    "last_commit": "2026-08-27T23:17:16Z",
                     "owner": "genkit-ai",
                     "repo": "aws-bedrock-js-plugin",
                     "stars": 13
@@ -236,7 +236,7 @@
                     "archived": false,
                     "id": 1118355946,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T23:36:11Z",
+                    "last_commit": "2026-08-28T00:24:36Z",
                     "owner": "xavidop",
                     "repo": "genkitx-weaviate",
                     "stars": 1
@@ -399,10 +399,10 @@
                     "archived": false,
                     "id": 793795224,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T07:02:55Z",
+                    "last_commit": "2026-08-28T00:13:37Z",
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6382
+                    "stars": 6384
                   }
                 }
               ]
@@ -946,10 +946,10 @@
             "archived": false,
             "id": 793795224,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:02:55Z",
+            "last_commit": "2026-08-28T00:13:37Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6382
+            "stars": 6384
           }
         },
         {
@@ -961,7 +961,7 @@
             "archived": false,
             "id": 983118442,
             "language": "Dart",
-            "last_commit": "2026-08-27T01:45:25Z",
+            "last_commit": "2026-08-28T00:02:52Z",
             "owner": "genkit-ai",
             "repo": "genkit-dart",
             "stars": 156
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:04.844Z",
+    "last_updated": "2026-08-28T00:28:43.442Z",
     "original_repository_info": {
       "archived": false,
       "id": 856569515,

@@ -17,12 +17,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -33,12 +51,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -49,12 +85,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -65,12 +119,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -81,12 +153,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -97,12 +187,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugin for Genkit to use Github Models",
+                    "homepage": "https://xavidop.github.io/genkitx-github/",
                     "id": 853843195,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T23:17:51Z",
+                    "open_issues": 1,
                     "owner": "xavidop",
                     "repo": "genkitx-github",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": [
+                      "ai",
+                      "ai21",
+                      "ai21labs",
+                      "cohere",
+                      "firebase",
+                      "gen-ai",
+                      "generative-ai",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "github",
+                      "github-models",
+                      "jais",
+                      "lllama",
+                      "meta",
+                      "meta-llama",
+                      "mistral",
+                      "openai",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -113,12 +228,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Plugin for Genkit to use AWS Bedrock",
+                    "homepage": "https://genkit-ai.github.io/aws-bedrock-js-plugin/",
                     "id": 907766246,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T22:25:52Z",
+                    "open_issues": 2,
                     "owner": "genkit-ai",
                     "repo": "aws-bedrock-js-plugin",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "ai",
+                      "aws",
+                      "aws-bedrock",
+                      "bedrock",
+                      "firebase",
+                      "gen-ai",
+                      "generative-ai",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -129,12 +261,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin for using DeepSeek APIs with Firebase Genkit. ",
+                    "homepage": "https://www.npmjs.com/package/genkitx-deepseek",
                     "id": 928120542,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-24T07:25:04Z",
+                    "open_issues": 1,
                     "owner": "oddbit",
                     "repo": "genkitx-deepseek",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "deepseek",
+                      "firebase",
+                      "firebase-genkit",
+                      "genai",
+                      "generative-ai",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -145,12 +292,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Integrates Hugging Face's Inference API into Genkit, allowing you to leverage Hugging Face models within the Genkit ecosystem.",
+                    "homepage": null,
                     "id": 918739387,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-01-18T18:29:12Z",
+                    "open_issues": 0,
                     "owner": "aciescrest",
                     "repo": "genkit-huggingface",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -168,12 +320,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -184,12 +354,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -200,12 +388,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 812911336,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-24T13:10:32Z",
+                    "open_issues": 0,
                     "owner": "qdrant",
                     "repo": "qdrant-genkit",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -216,12 +409,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugin for Genkit to use Voiceflow",
+                    "homepage": "https://xavidop.github.io/genkitx-voiceflow/",
                     "id": 952723341,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T13:13:52Z",
+                    "open_issues": 1,
                     "owner": "xavidop",
                     "repo": "genkitx-voiceflow",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "firebase",
+                      "firebase-genkit",
+                      "gen-ai",
+                      "generative-ai",
+                      "genkit-plugin",
+                      "genkit-retriever",
+                      "genkitx",
+                      "plugin"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -232,12 +439,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 800215359,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-20T23:31:12Z",
+                    "open_issues": 0,
                     "owner": "retzd-tech",
                     "repo": "genkitx-redis",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -248,12 +460,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://xavidop.github.io/genkitx-weaviate/",
                     "id": 1118355946,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T00:24:36Z",
+                    "open_issues": 1,
                     "owner": "xavidop",
                     "repo": "genkitx-weaviate",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "genkit",
+                      "genkit-ai",
+                      "genkit-indexer",
+                      "genkit-plugin",
+                      "genkit-retriever",
+                      "weaviate"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -264,12 +488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repo will contain the source code for Genkit plugin for MongoDB",
+                    "homepage": null,
                     "id": 1016854620,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-08-08T05:38:26Z",
+                    "open_issues": 1,
                     "owner": "mongodb-partners",
                     "repo": "genkitx-mongodb",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -287,12 +516,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugin for Genkit to use Promptfoo",
+                    "homepage": "https://www.npmjs.com/package/genkitx-promptfoo",
                     "id": 855240215,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-03T15:03:39Z",
+                    "open_issues": 7,
                     "owner": "yukinagae",
                     "repo": "genkitx-promptfoo",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "ai",
+                      "evaluation",
+                      "evaluation-framework",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "llm",
+                      "llm-eval",
+                      "llm-evaluation",
+                      "llm-evaluation-framework",
+                      "llmops",
+                      "plugin",
+                      "prompt",
+                      "prompt-testing",
+                      "promptfoo",
+                      "prompts",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -310,12 +563,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community Plugins for Genkit (OpenAI, Groq, Anthropic, Cohere, etc)",
+                    "homepage": "https://bloomlabsinc.github.io/genkit-plugins/",
                     "id": 796786327,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T06:54:08Z",
+                    "open_issues": 19,
                     "owner": "BloomLabsInc",
                     "repo": "genkit-plugins",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "ai",
+                      "cohere-ai",
+                      "embedders",
+                      "firebase",
+                      "genkit",
+                      "genkit-plugin",
+                      "genkitx",
+                      "groq",
+                      "mistral",
+                      "openai",
+                      "plugin",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -326,12 +597,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Redis Plugin for GenKit that adds Redis for efficient state storage, trace storage, caching, and rate limiting.",
+                    "homepage": null,
                     "id": 811497982,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-11T17:58:09Z",
+                    "open_issues": 0,
                     "owner": "invertase",
                     "repo": "genkit-plugin-redis",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -342,12 +618,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Langfuse Plugin for Genkit enabling flow observability",
+                    "homepage": "https://flowshapr.ai",
                     "id": 1042065097,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-09-11T16:56:34Z",
+                    "open_issues": 1,
                     "owner": "flowshapr",
                     "repo": "genkitx-langfuse",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "ai",
+                      "genkit",
+                      "genkit-plugin",
+                      "observability"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -358,12 +644,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PostHog LLM analytics integration for Firebase Genkit",
+                    "homepage": null,
                     "id": 1136007746,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-16T23:51:35Z",
+                    "open_issues": 0,
                     "owner": "orchlab",
                     "repo": "genkitx-posthog",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -374,12 +665,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Genkit integration for the Ejentum Reasoning Harness. createEjentumTools(ai) registers 8 agent-callable tools (4 harnesses Ã— dynamic + adaptive).",
+                    "homepage": "https://ejentum.com",
                     "id": 1247091095,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-30T17:37:12Z",
+                    "open_issues": 0,
                     "owner": "ejentum",
                     "repo": "ejentum-genkit",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "agentic-ai",
+                      "ai",
+                      "anti-deception",
+                      "cognitive-scaffold",
+                      "ejentum",
+                      "firebase",
+                      "genkit",
+                      "google-genkit",
+                      "llm",
+                      "reasoning-harness",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -390,12 +698,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 830087047,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-17T15:04:50Z",
+                    "open_issues": 0,
                     "owner": "pavelgj",
                     "repo": "genkitx-rxjs",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -420,12 +733,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
+                    "homepage": "https://genkit.dev",
                     "id": 793795224,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T22:27:16Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T01:22:47Z",
+                    "open_issues": 760,
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6385
+                    "stars": 6385,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "embedders",
+                      "genkit",
+                      "llm",
+                      "multimodal",
+                      "rag",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -450,12 +777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 812911336,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-24T13:10:32Z",
+                    "open_issues": 0,
                     "owner": "qdrant",
                     "repo": "qdrant-genkit",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -473,12 +805,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official plugin to use Opentelemetry with Genkit",
+                    "homepage": "https://pkg.go.dev/github.com/xavidop/genkit-opentelemetry-go",
                     "id": 1032839003,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T00:33:55Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "opentelemetry-go-plugin",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "genkit",
+                      "genkit-plugin",
+                      "go",
+                      "golang"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -503,12 +845,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -526,12 +873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -542,12 +894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -558,12 +915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -574,12 +936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -590,12 +957,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -606,12 +978,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -622,12 +999,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -638,12 +1020,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -654,12 +1041,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -670,12 +1062,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -686,12 +1083,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -702,12 +1104,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -725,12 +1132,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -741,12 +1153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -757,12 +1174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -773,12 +1195,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -789,12 +1216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -812,12 +1244,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -835,12 +1272,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -851,12 +1293,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 },
@@ -867,12 +1314,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial port of Genkit in Java - Work in Progress",
+                    "homepage": "https://genkit-ai.github.io/genkit-java/",
                     "id": 1121210153,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T13:51:15Z",
+                    "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
                 }
@@ -896,12 +1348,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💰 An MCP server that enables AI assistants to estimate Google Cloud costs, powered by Cloud Billing Catalog API and built with Genkit for Go",
+            "homepage": null,
             "id": 1106463692,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-19T01:53:49Z",
+            "open_issues": 0,
             "owner": "nozomi-koborinai",
             "repo": "gcp-cost-mcp-server",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "cloud-billing",
+              "gcp",
+              "genkit",
+              "golang",
+              "google-cloud",
+              "llm-tools",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         },
@@ -912,12 +1378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "internal AI is an OSS project that enables building generative AI chat applications for use within specific organizations.",
+            "homepage": null,
             "id": 901304029,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-05T03:39:06Z",
+            "open_issues": 0,
             "owner": "tanabee",
             "repo": "internal-ai",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         },
@@ -928,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(WIP) Self-hostable platform for configuring and running LLM agents. Built on Google Genkit (Go SDK). Configure providers, create agents with custom instructions, connect MCP tool servers, and expose everything through an OpenAI-compatible API.",
+            "homepage": "https://deej4y.github.io/genkitkraft/",
             "id": 1185519326,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-18T03:51:34Z",
+            "open_issues": 4,
             "owner": "DEEJ4Y",
             "repo": "genkitkraft",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         },
@@ -944,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1139223266,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-17T06:08:40Z",
+            "open_issues": 7,
             "owner": "xavidop",
             "repo": "genkit-aws-lambda-bedrock",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         },
@@ -960,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project that tries to simulate a Perplexity cli to showcase Genkit chat capabilities",
+            "homepage": null,
             "id": 1098479343,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-01T20:04:05Z",
+            "open_issues": 10,
             "owner": "xavidop",
             "repo": "perplexity-cli",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         },
@@ -976,12 +1462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1140036823,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-23T17:50:23Z",
+            "open_issues": 0,
             "owner": "xavidop",
             "repo": "genkit-azure-function-ai-foundry",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         }
@@ -998,12 +1489,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
+            "homepage": "https://genkit.dev",
             "id": 793795224,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:27:16Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:22:47Z",
+            "open_issues": 760,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6385
+            "stars": 6385,
+            "topics": [
+              "agents",
+              "ai",
+              "embedders",
+              "genkit",
+              "llm",
+              "multimodal",
+              "rag",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         },
@@ -1014,12 +1519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Genkit for Dart and Flutter",
+            "homepage": "https://genkit.dev",
             "id": 983118442,
             "language": "Dart",
-            "last_commit": "2026-08-28T01:59:47Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:05:17Z",
+            "open_issues": 107,
             "owner": "genkit-ai",
             "repo": "genkit-dart",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         },
@@ -1030,12 +1540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial port of Genkit in Java - Work in Progress",
+            "homepage": "https://genkit-ai.github.io/genkit-java/",
             "id": 1121210153,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T13:51:15Z",
+            "open_issues": 0,
             "owner": "genkit-ai",
             "repo": "genkit-java",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
         }
@@ -1044,15 +1559,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:03:02.924Z",
+    "last_updated": "2026-08-29T04:55:58.479Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!",
+      "homepage": "http://genkit.dev",
       "id": 856569515,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-20T16:43:18Z",
+      "open_issues": 1,
       "owner": "xavidop",
       "repo": "awesome-genkit",
-      "stars": 134
+      "stars": 134,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "firebase",
+        "firebase-genkit",
+        "genkit",
+        "genkit-indexer",
+        "genkit-plugin",
+        "genkit-retriever",
+        "genkitx"
+      ]
     },
     "original_repository_sha": "9cca4bdd92430020af0d0dc08e8a629112abb53a",
     "enhanced_repository": "enhansome/enhansome-firebase-genkit",

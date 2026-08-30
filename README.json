@@ -742,7 +742,7 @@
                     "open_issues": 757,
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6384,
+                    "stars": 6387,
                     "topics": [
                       "agents",
                       "ai",
@@ -1498,7 +1498,7 @@
             "open_issues": 757,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6384,
+            "stars": 6387,
             "topics": [
               "agents",
               "ai",
@@ -1559,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:43:40.697Z",
+    "last_updated": "2026-08-30T18:40:59.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!",

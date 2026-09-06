@@ -130,7 +130,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`ollama`](https://genkit.dev/go/docs/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
    * [`compat_oai,compat_oai/openai,compat_oai/anthropic`](https://genkit.dev/go/docs/plugins/openai/) - Plugin for Compatible OpenAI APIs (OpenAI, Anthropic providers).
 2. Vector Store Plugins
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,406 | 🐛 778 | 🌐 TypeScript | 📅 2026-09-05 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,408 | 🐛 777 | 🌐 TypeScript | 📅 2026-09-06 - Plugin for Weaviate Vector Stores.
    * [`pinecone`](https://genkit.dev/go/docs/plugins/pinecone/) - Plugin for Pinecone Vector Stores.
    * [`alloydb`](https://genkit.dev/go/docs/plugins/alloydb/) - Plugin for AlloyDB Vector Stores.
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
@@ -266,7 +266,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,406 | 🐛 778 | 🌐 TypeScript | 📅 2026-09-05 - Official GitHub repository for Genkit.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,408 | 🐛 777 | 🌐 TypeScript | 📅 2026-09-06 - Official GitHub repository for Genkit.
 * [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 157 | 🐛 114 | 🌐 Dart | 📅 2026-09-03 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 24 | 🐛 0 | 🌐 Java | 📅 2026-09-01 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
@@ -274,4 +274,4 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

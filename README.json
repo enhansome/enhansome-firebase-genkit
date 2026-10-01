@@ -738,11 +738,11 @@
                     "id": 793795224,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T19:59:24Z",
-                    "open_issues": 812,
+                    "last_commit": "2026-10-01T19:31:30Z",
+                    "open_issues": 823,
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6461,
+                    "stars": 6464,
                     "topics": [
                       "agents",
                       "ai",
@@ -1357,7 +1357,7 @@
             "open_issues": 0,
             "owner": "nozomi-koborinai",
             "repo": "gcp-cost-mcp-server",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "cloud-billing",
               "gcp",
@@ -1494,11 +1494,11 @@
             "id": 793795224,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T19:59:24Z",
-            "open_issues": 812,
+            "last_commit": "2026-10-01T19:31:30Z",
+            "open_issues": 823,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6461,
+            "stars": 6464,
             "topics": [
               "agents",
               "ai",
@@ -1524,8 +1524,8 @@
             "id": 983118442,
             "language": "Dart",
             "license": null,
-            "last_commit": "2026-09-30T19:34:17Z",
-            "open_issues": 110,
+            "last_commit": "2026-10-01T17:06:00Z",
+            "open_issues": 108,
             "owner": "genkit-ai",
             "repo": "genkit-dart",
             "stars": 159,
@@ -1559,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:10:43.647Z",
+    "last_updated": "2026-10-01T20:24:24.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!",

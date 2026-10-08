@@ -130,7 +130,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`ollama`](https://genkit.dev/go/docs/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
    * [`compat_oai,compat_oai/openai,compat_oai/anthropic`](https://genkit.dev/go/docs/plugins/openai/) - Plugin for Compatible OpenAI APIs (OpenAI, Anthropic providers).
 2. Vector Store Plugins
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,481 | 🐛 873 | 🌐 TypeScript | 📅 2026-10-07 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,490 | 🐛 862 | 🌐 TypeScript | 📅 2026-10-08 - Plugin for Weaviate Vector Stores.
    * [`pinecone`](https://genkit.dev/go/docs/plugins/pinecone/) - Plugin for Pinecone Vector Stores.
    * [`alloydb`](https://genkit.dev/go/docs/plugins/alloydb/) - Plugin for AlloyDB Vector Stores.
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
@@ -210,7 +210,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 * [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) ⭐ 23 | 🐛 0 | 🌐 Go | 📅 2026-07-19 - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
 * [`internal AI`](https://github.com/tanabee/internal-ai) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-05 - An open-source Genkit-based internal AI chat application.
-* [`Genkit Kraft`](https://github.com/DEEJ4Y/genkitkraft) ⭐ 4 | 🐛 9 | 🌐 Go | 📅 2026-10-05 - A self-hostable LLM agent platform built on the Genkit Go SDK that lets you configure, test, and deploy AI agents through a visual UI, OpenAI-compatible REST API, and MCP server support for use with AI clients like Claude.
+* [`Genkit Kraft`](https://github.com/DEEJ4Y/genkitkraft) ⭐ 4 | 🐛 7 | 🌐 Go | 📅 2026-10-08 - A self-hostable LLM agent platform built on the Genkit Go SDK that lets you configure, test, and deploy AI agents through a visual UI, OpenAI-compatible REST API, and MCP server support for use with AI clients like Claude.
 * [`Genkit AWS Lambda Bedrock`](https://github.com/xavidop/genkit-aws-lambda-bedrock) ⭐ 2 | 🐛 7 | 🌐 TypeScript | 📅 2026-04-17 - A sample project demonstrating how to use Genkit with AWS Lambda and Amazon Bedrock.
 * [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) ⭐ 0 | 🐛 10 | 🌐 JavaScript | 📅 2026-03-01 - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
 * [`Genkit Azure Function AI Foundry`](https://github.com/xavidop/genkit-azure-function-ai-foundry) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-23 - A sample project demonstrating how to use Genkit with Azure Functions and Azure AI Foundry.
@@ -266,12 +266,12 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,481 | 🐛 873 | 🌐 TypeScript | 📅 2026-10-07 - Official GitHub repository for Genkit.
-* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 159 | 🐛 150 | 🌐 Dart | 📅 2026-10-07 - Official GitHub repository for Genkit Dart.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,490 | 🐛 862 | 🌐 TypeScript | 📅 2026-10-08 - Official GitHub repository for Genkit.
+* [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 158 | 🐛 152 | 🌐 Dart | 📅 2026-10-08 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 25 | 🐛 0 | 🌐 Java | 📅 2026-10-05 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 * [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

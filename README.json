@@ -465,7 +465,7 @@
                     "id": 1118355946,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T07:17:53Z",
+                    "last_commit": "2026-10-10T07:26:12Z",
                     "open_issues": 1,
                     "owner": "xavidop",
                     "repo": "genkitx-weaviate",
@@ -738,11 +738,11 @@
                     "id": 793795224,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T19:17:25Z",
-                    "open_issues": 875,
+                    "last_commit": "2026-10-10T19:23:09Z",
+                    "open_issues": 856,
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6501,
+                    "stars": 6509,
                     "topics": [
                       "agents",
                       "ai",
@@ -1494,11 +1494,11 @@
             "id": 793795224,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T19:17:25Z",
-            "open_issues": 875,
+            "last_commit": "2026-10-10T19:23:09Z",
+            "open_issues": 856,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6501,
+            "stars": 6509,
             "topics": [
               "agents",
               "ai",
@@ -1525,10 +1525,10 @@
             "language": "Dart",
             "license": null,
             "last_commit": "2026-10-09T15:54:24Z",
-            "open_issues": 152,
+            "open_issues": 155,
             "owner": "genkit-ai",
             "repo": "genkit-dart",
-            "stars": 160,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1559,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:11:24.899Z",
+    "last_updated": "2026-10-10T19:24:32.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!",

@@ -738,11 +738,11 @@
                     "id": 793795224,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T19:23:09Z",
-                    "open_issues": 856,
+                    "last_commit": "2026-10-11T15:59:25Z",
+                    "open_issues": 859,
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6509,
+                    "stars": 6510,
                     "topics": [
                       "agents",
                       "ai",
@@ -1404,7 +1404,7 @@
             "id": 1185519326,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-09T18:19:10Z",
+            "last_commit": "2026-10-11T16:18:49Z",
             "open_issues": 2,
             "owner": "DEEJ4Y",
             "repo": "genkitkraft",
@@ -1494,11 +1494,11 @@
             "id": 793795224,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T19:23:09Z",
-            "open_issues": 856,
+            "last_commit": "2026-10-11T15:59:25Z",
+            "open_issues": 859,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6509,
+            "stars": 6510,
             "topics": [
               "agents",
               "ai",
@@ -1559,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:24:32.321Z",
+    "last_updated": "2026-10-11T19:37:23.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!",
@@ -1571,7 +1571,7 @@
       "open_issues": 1,
       "owner": "xavidop",
       "repo": "awesome-genkit",
-      "stars": 134,
+      "stars": 133,
       "topics": [
         "awesome",
         "awesome-list",

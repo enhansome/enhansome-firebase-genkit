@@ -81,17 +81,17 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`genkitx-groq`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq) ⭐ 181 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for Groq APIs.
    * [`genkitx-mistral`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral) ⭐ 181 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for Mistral AI APIs.
    * [`genkitx-azure-openai`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai) ⭐ 181 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for Azure OpenAI APIs.
-   * [`genkitx-github`](https://github.com/xavidop/genkitx-github) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-14 - Plugin for GitHub Models APIs.
-   * [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) ⭐ 13 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-14 - Plugin for AWS Bedrock APIs.
+   * [`genkitx-github`](https://github.com/xavidop/genkitx-github) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-15 - Plugin for GitHub Models APIs.
+   * [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) ⭐ 13 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15 - Plugin for AWS Bedrock APIs.
    * [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-24 - Plugin for Deepseek Cloud APIs.
    * [`genkitx-huggingface`](https://github.com/aciescrest/genkit-huggingface) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-18 - Plugin for Hugging Face Inference APIs.
 2. Vector Store Plugins
    * [`genkitx-convex`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/convex) ⭐ 181 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for Convex Vector Stores.
    * [`genkitx-hnsw`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/hnsw) ⭐ 181 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-15 - Plugin for HNSW Vector Stores.
-   * [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Plugin for Qdrant Vector Stores.
-   * [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-13 - Plugin for Voiceflow KB.
+   * [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16 - Plugin for Qdrant Vector Stores.
+   * [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-16 - Plugin for Voiceflow KB.
    * [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-20 - Plugin for Redis Vector Stores.
-   * [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-14 - Plugin for Weaviate Vector Stores.
+   * [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-15 - Plugin for Weaviate Vector Stores.
    * [`genkitx-mongodb`](https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-08 - Plugin for MongoDB Vector Stores.
    * [`genkitx-astra-db`](https://genkit.dev/docs/plugins/astra-db/) - Plugin for AstraDB Vector Stores.
    * [`genkitx-pgvector`](https://genkit.dev/docs/plugins/pgvector/) - Plugin for PostgeSQL (PGVector) Vector Stores.
@@ -130,7 +130,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`ollama`](https://genkit.dev/go/docs/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
    * [`compat_oai,compat_oai/openai,compat_oai/anthropic`](https://genkit.dev/go/docs/plugins/openai/) - Plugin for Compatible OpenAI APIs (OpenAI, Anthropic providers).
 2. Vector Store Plugins
-   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,522 | 🐛 857 | 🌐 TypeScript | 📅 2026-10-15 - Plugin for Weaviate Vector Stores.
+   * [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) ⭐ 6,524 | 🐛 855 | 🌐 TypeScript | 📅 2026-10-16 - Plugin for Weaviate Vector Stores.
    * [`pinecone`](https://genkit.dev/go/docs/plugins/pinecone/) - Plugin for Pinecone Vector Stores.
    * [`alloydb`](https://genkit.dev/go/docs/plugins/alloydb/) - Plugin for AlloyDB Vector Stores.
    * [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
@@ -147,7 +147,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    * [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
    * [`azureaifoundry`](https://pkg.go.dev/github.com/xavidop/genkit-azure-foundry-go) - Plugin for Azure AI Foundry.
 2. Vector Store Plugins
-   * [`qdrant`](https://github.com/qdrant/qdrant-genkit/tree/main/go) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Plugin for Qdrant Vector Stores.
+   * [`qdrant`](https://github.com/qdrant/qdrant-genkit/tree/main/go) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16 - Plugin for Qdrant Vector Stores.
 3. Monitoring Plugin:
    * [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) ⭐ 14 | 🐛 1 | 🌐 Go | 📅 2026-10-13 - Plugin for OpenTelemetry to monitor Genkit applications.
 
@@ -266,7 +266,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,522 | 🐛 857 | 🌐 TypeScript | 📅 2026-10-15 - Official GitHub repository for Genkit.
+* [Genkit GitHub](https://github.com/firebase/genkit) ⭐ 6,524 | 🐛 855 | 🌐 TypeScript | 📅 2026-10-16 - Official GitHub repository for Genkit.
 * [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) ⭐ 169 | 🐛 156 | 🌐 Dart | 📅 2026-10-15 - Official GitHub repository for Genkit Dart.
 * [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) ⭐ 25 | 🐛 0 | 🌐 Java | 📅 2026-10-13 - Unofficial GitHub repository for Genkit Java.
 * [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
@@ -274,4 +274,4 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

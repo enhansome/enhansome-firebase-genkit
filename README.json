@@ -738,11 +738,11 @@
                     "id": 793795224,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T19:22:00Z",
-                    "open_issues": 833,
+                    "last_commit": "2026-11-01T14:31:27Z",
+                    "open_issues": 843,
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6561,
+                    "stars": 6563,
                     "topics": [
                       "agents",
                       "ai",
@@ -1494,11 +1494,11 @@
             "id": 793795224,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T19:22:00Z",
-            "open_issues": 833,
+            "last_commit": "2026-11-01T14:31:27Z",
+            "open_issues": 843,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6561,
+            "stars": 6563,
             "topics": [
               "agents",
               "ai",
@@ -1559,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:24:50.496Z",
+    "last_updated": "2026-11-01T19:50:22.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!",

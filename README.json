@@ -233,8 +233,8 @@
                     "id": 907766246,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T22:24:09Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-11-17T16:33:46Z",
+                    "open_issues": 19,
                     "owner": "genkit-ai",
                     "repo": "aws-bedrock-js-plugin",
                     "stars": 13,
@@ -414,7 +414,7 @@
                     "id": 952723341,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T13:24:42Z",
+                    "last_commit": "2026-11-17T12:38:48Z",
                     "open_issues": 2,
                     "owner": "xavidop",
                     "repo": "genkitx-voiceflow",
@@ -465,8 +465,8 @@
                     "id": 1118355946,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T23:34:52Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-17T08:59:25Z",
+                    "open_issues": 1,
                     "owner": "xavidop",
                     "repo": "genkitx-weaviate",
                     "stars": 1,
@@ -738,11 +738,11 @@
                     "id": 793795224,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T20:42:11Z",
-                    "open_issues": 876,
+                    "last_commit": "2026-11-17T21:36:44Z",
+                    "open_issues": 818,
                     "owner": "genkit-ai",
                     "repo": "genkit",
-                    "stars": 6593,
+                    "stars": 6599,
                     "topics": [
                       "agents",
                       "ai",
@@ -854,7 +854,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -882,7 +882,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -903,7 +903,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -924,7 +924,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -945,7 +945,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -966,7 +966,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -987,7 +987,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1008,7 +1008,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1029,7 +1029,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1050,7 +1050,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1071,7 +1071,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1092,7 +1092,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1113,7 +1113,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1141,7 +1141,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1162,7 +1162,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1183,7 +1183,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1204,7 +1204,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1225,7 +1225,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1253,7 +1253,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1281,7 +1281,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1302,7 +1302,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1323,7 +1323,7 @@
                     "open_issues": 0,
                     "owner": "genkit-ai",
                     "repo": "genkit-java",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1494,11 +1494,11 @@
             "id": 793795224,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T20:42:11Z",
-            "open_issues": 876,
+            "last_commit": "2026-11-17T21:36:44Z",
+            "open_issues": 818,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6593,
+            "stars": 6599,
             "topics": [
               "agents",
               "ai",
@@ -1524,8 +1524,8 @@
             "id": 983118442,
             "language": "Dart",
             "license": null,
-            "last_commit": "2026-11-16T23:44:49Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-17T20:24:31Z",
+            "open_issues": 122,
             "owner": "genkit-ai",
             "repo": "genkit-dart",
             "stars": 176,
@@ -1549,7 +1549,7 @@
             "open_issues": 0,
             "owner": "genkit-ai",
             "repo": "genkit-java",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:02.924Z"
@@ -1559,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:46:46.373Z",
+    "last_updated": "2026-11-17T23:01:56.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!",
